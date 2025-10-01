@@ -1,0 +1,3 @@
+## Resenhas literárias
+
+Nessa sessão você encontrará comentários das principais obras que estudei e sobre as quais acredito que fale a pena mencioná-las, descrevê-las e motivar outras pessoas para que leiam, para que coloquem como obras que considero importantes para aqueles que buscam o autoconhecimento, antrolopogia, mitos, história das religiões e um estudo pormenorizado sobre cada assunto que esse blog pretende tratar.
