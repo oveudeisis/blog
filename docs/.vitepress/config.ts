@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/',
+  base: '/blog/',
   title: "O Véu de Isis",
-  description: "Histórias e reflexões pessoais",
+  description: "Blog pessoal",
   themeConfig: {
     docFooter: {
       prev: 'Página anterior',
