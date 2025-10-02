@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "O Véu de Isis",
   description: "Histórias e reflexões pessoais",
+  build: {
+    outDir: '.'
+  },
   themeConfig: {
     docFooter: {
       prev: 'Página anterior',
