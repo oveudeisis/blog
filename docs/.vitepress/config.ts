@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/blog/',
+  base: '/',
   title: "O Véu de Isis",
   description: "Blog pessoal",
   themeConfig: {
