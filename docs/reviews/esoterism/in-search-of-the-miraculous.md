@@ -1,7 +1,7 @@
 <BookCover 
   title="Fragmentos de um ensinamento desconhecido" 
   author="P. D. Ouspensky" 
-  cover="/img/books/in-search-of-the-miraculous.jpg" 
+  cover="/img/in-search-of-the-miraculous.jpg" 
 />
 
 ### Obra de base para o estudo da psicologia esotérica e das leis superiores que dirigem o homem e o cosmo
