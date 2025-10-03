@@ -1,7 +1,7 @@
 <!-- src/components/BookCover.vue -->
 <template>
   <div class="book-cover">
-    <img :src="withBase(cover)" :alt="title" class="cover-image" />
+    <img :src="resolveImage(cover)" :alt="title" class="cover-image" />
     <div class="book-info">
       <h3 class="book-title">{{ title }}</h3>
       <p class="book-author">{{ author }}</p>
@@ -27,6 +27,10 @@ defineProps({
     required: true
   }
 })
+
+const resolveImage = (path) => {
+  return withBase(`/images/${path}`)
+}
 </script>
 
 <style scoped>
