@@ -1,7 +1,7 @@
 <!-- src/components/BookCover.vue -->
 <template>
   <div class="book-cover">
-    <img :src="cover" :alt="title" class="cover-image" />
+    <img :src="withBase(cover)" :alt="title" class="cover-image" />
     <div class="book-info">
       <h3 class="book-title">{{ title }}</h3>
       <p class="book-author">{{ author }}</p>
@@ -10,6 +10,8 @@
 </template>
 
 <script setup>
+import { withBase } from 'vitepress'
+
 defineProps({
   title: {
     type: String,
