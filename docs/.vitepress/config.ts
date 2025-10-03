@@ -5,6 +5,7 @@ export default defineConfig({
   title: "O Véu de Isis",
   description: "Blog pessoal",
   themeConfig: {
+    logo: '/img/logo.svg',
     docFooter: {
       prev: 'Página anterior',
       next: 'Próxima página'
