@@ -5,7 +5,7 @@ export default defineConfig({
   title: "O Véu de Isis",
   description: "Blog pessoal",
   themeConfig: {
-    logo: '/image/logo.svg',
+    logo: '/image/logo.png',
     docFooter: {
       prev: 'Página anterior',
       next: 'Próxima página'
@@ -77,7 +77,10 @@ export default defineConfig({
           ]
         }
       ]
-    }
+    },
+    footer: {
+      copyright: 'Copyright © 2025 Carlos Aguiar'
+    },
   },
   head: [
     [
