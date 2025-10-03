@@ -4,28 +4,6 @@ export default defineConfig({
   base: '/blog/',
   title: "O Véu de Isis",
   description: "Blog pessoal",
-  // CONFIGURAÇÃO CRÍTICA QUE ESTAVA FALTANDO
-  vite: {
-    resolve: {
-      preserveSymlinks: true
-    },
-    server: {
-      fs: {
-        allow: ['..']
-      }
-    },
-    build: {
-      assetsInlineLimit: 0 // Não tenta fazer inline de imagens
-    }
-  },
-  // CONFIGURAÇÃO VUE PARA COMPONENTES
-  vue: {
-    template: {
-      transformAssetUrls: {
-        includeAbsolute: false
-      }
-    }
-  },
   themeConfig: {
     logo: '/image/logo.svg',
     docFooter: {
