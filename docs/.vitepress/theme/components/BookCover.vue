@@ -1,7 +1,7 @@
-<!-- src/components/BookCover.vue -->
+<!-- docs/.vitepress/components/BookCover.vue -->
 <template>
   <div class="book-cover">
-    <img :src="imageUrl" :alt="title" class="cover-image" />
+    <img :src="withBase(`/image/${cover}`)" :alt="title" class="cover-image" />
     <div class="book-info">
       <h3 class="book-title">{{ title }}</h3>
       <p class="book-author">{{ author }}</p>
@@ -12,7 +12,6 @@
 <script setup>
 import { withBase } from 'vitepress'
 
-// CORREÇÃO: Destructure as props ou use a variável props
 const props = defineProps({
   title: {
     type: String,
@@ -29,8 +28,6 @@ const props = defineProps({
   }
 })
 
-// AGORA pode usar props.cover
-const imageUrl = withBase(`/images/${props.cover}`)
 </script>
 
 <style scoped>
