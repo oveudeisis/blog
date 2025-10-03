@@ -1,7 +1,7 @@
 <BookCover 
   title="Poderes ou o livro que diviniza" 
   author="Jorge Adoum" 
-  cover="/img/books/powers-or-the-book-that-deifies.png" 
+  cover="/img/powers-or-the-book-that-deifies.png" 
 />
 
 ### Poderes ou o livro que diviniza, de Jorge Adoum.
