@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" role="img" aria-label="O Véu de Ísis - Logo">
+  <circle cx="60" cy="60" r="28" fill="#0f172a"/>
+  <path d="M20 20 Q60 0 100 20 T180 20" fill="none" stroke="#8b5cf6" stroke-width="6" stroke-opacity="0.6"/>
+  <path d="M20 100 Q60 120 100 100 T180 100" fill="none" stroke="#8b5cf6" stroke-width="6" stroke-opacity="0.6"/>
+  <text x="120" y="70" font-family="serif" font-size="28" fill="#0f172a" font-weight="bold">
+    O Véu de Ísis
+  </text>
+</svg>

@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import BookTable from './components/BookTable.vue'
 import BookCover from './components/BookCover.vue'
+import './custom.css'
 
 export default {
   ...DefaultTheme,

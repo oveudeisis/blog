@@ -1,0 +1,7 @@
+/* Aplicar a todos os parágrafos do conteúdo "doc" (global) --- */
+/* O conteúdo de docs é envolvido por um wrapper .vp-doc, então podemos usá-lo */
+.vp-doc p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
