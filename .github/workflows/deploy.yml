@@ -39,7 +39,7 @@ jobs:
         run: npm run docs:build
 
       - name: Copy public images to dist
-        run: cp -r docs/public/* docs/.vitepress/dist/
+        run: cp -r docs/public/* docs/.vitepress/dist/public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
