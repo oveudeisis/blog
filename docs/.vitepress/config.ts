@@ -35,9 +35,39 @@ export default defineConfig({
           text: "Gnosis",
           collapsible: true,
           items: [
-            { text: "Cristianismo primitivo", link: "/posts/gnosis/cristianismo-primitivo"},
-            { text: "Quem foram os gnósticos", link: "/posts/gnosis/quem-foram-os-gnosticos"},
-            { text: "Os mistérios do nome interno", link: "/posts/gnosis/os-misterios-do-nome-interno"}
+            {
+              text: "Gnosticismo",
+              items: [
+                { text: "Cristianismo primitivo", link: "/posts/gnosis/gnosticism/cristianismo-primitivo" },
+                { text: "Quem foram os gnósticos", link: "/posts/gnosis/gnosticism/quem-foram-os-gnosticos" },
+                { text: "Os mistérios do nome interno", link: "/posts/gnosis/gnosticism/os-misterios-do-nome-interno" }
+              ]
+            },
+            {
+              text: "O Movimento New Age",
+              items: [
+                { text: "Gnosis e secularização", link: "/posts/gnosis/new-age/secularizacao" },
+                { text: "A Gnosis de Samael", link: "/posts/gnosis/new-age/gnosis-samael" },
+              ]
+            }
+          ]
+        },
+                {
+          text: "Mitologia",
+          collapsible: true,
+          items: [
+            {
+              text: "Grega",
+              items: [
+                { text: "Os Doze Trabalhos de Hércules", link: "/posts/mitologia/grega/hercules" }
+              ]
+            },
+            {
+              text: "Romana",
+              items: [
+                { text: "Ainda sem título", link: "/posts/mitologia/romana/ainda-sem-titulo" }
+              ]
+            }
           ]
         },
         {
