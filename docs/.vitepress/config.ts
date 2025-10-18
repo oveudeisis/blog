@@ -52,10 +52,14 @@ export default defineConfig({
             }
           ]
         },
-                {
+        {
           text: "Mitologia",
           collapsible: true,
           items: [
+            {
+               text: "Apresentação",
+               link: "/posts/mitologia/"
+            },
             {
               text: "Grega",
               items: [

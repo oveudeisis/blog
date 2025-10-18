@@ -1,6 +1,6 @@
 # Os Doze Trabalhos de Hércules
 
-Nessa análise faremos um mergulho, não subjetivo, mas interpretativo, com respaldo em grande simbolista, mitólogos e estorerístas, que compreendem que o míto guarda o maior de todos os misteríos, a jornada da consciência em direção ao reino humano e o maior de seus deveres, despir-se de todo aprendizado, ainda que tenha sido necessário, para assim, ingressar nos reinos ainda desconhecidos.
+Nessa análise, faremos um mergulho não subjetivo, mas interpretativo, com respaldo em grandes simbolistas, mitólogos e historiadores que compreendem que o mito guarda o maior de todos os mistérios: a jornada da consciência em direção ao reino humano e o maior de seus deveres — "despir-se" ou, ainda melhor, transmutar as forças que os reinos lhe impregnaram, para que nele, em seu devido lugar, pudesse fazer uso delas e, assim, ingressar em reinos ainda desconhecidos. :shushing_face:
 
 >  A natureza encomendou ao homem a missão de fazer-se Humano.
 
@@ -20,7 +20,14 @@ Nessa análise faremos um mergulho, não subjetivo, mas interpretativo, com resp
 [Cérbero, o Cão do Inferno](#cérbero-o-cão-do-inferno)    
 [Considerações](#considerações)    
 
----
+
+<Image 
+  cover="hercules-bebe.png" 
+  info="" 
+  width="300" 
+  align="left"
+  style="border-radius: 12px"
+/>
 
 ## Leão de Nemeia {#leão-de-nemeia}
 O primeiro trabalho de Hércules foi derrotar o leão de Nemeia, cuja pele era impenetrável.  
